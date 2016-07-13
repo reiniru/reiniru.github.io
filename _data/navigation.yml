@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  
+- title: About
+  url: /about/
+  
+- title: Portfolio
+  url: /portfolio/
+  
+- title: GitHub
+  url: https://github.com/nexusj
